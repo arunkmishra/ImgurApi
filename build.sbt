@@ -1,5 +1,5 @@
-name := """LeadIq"""
-organization := "leadiq"
+name := """ImgurApi"""
+organization := "Imgur"
 
 version := "1.0-SNAPSHOT"
 
