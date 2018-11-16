@@ -1,2 +1,9 @@
-*.class
-*.log
+.idea
+logs
+project/target
+target
+leadiq.iml
+project/project
+.DS_Store
+app/.DS_Store
+app/com/leadiq/.DS_Store
