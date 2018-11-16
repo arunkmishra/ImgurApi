@@ -1,4 +1,4 @@
-# Challenge
+# Imgur
 --
 ### Tech Stack
 ```
@@ -51,8 +51,8 @@ Result: Json with all imgur links
 
 ### How to run App in docker
 ```
-> docker build -t"arun/challenge" .
-> docker run -i -p 9000:9000 "arun/challenge" sbt run
+> docker build -t"arun/imgur" .
+> docker run -i -p 9000:9000 "arun/imgur" sbt run
 
 //task will start at 9000 port
 ```
